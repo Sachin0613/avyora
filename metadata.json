@@ -1,0 +1,9 @@
+
+{
+  "name": "AvyoraOfficial - Premium Growth Agency",
+  "description": "High-end 3D animated website for AvyoraOfficial, providing digital and ground growth solutions with premium subscription plans.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
